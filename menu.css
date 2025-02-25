@@ -1,0 +1,156 @@
+@media (max-width: 590px) {
+    .navbar-nav a {
+      font-size: 16px; /* Smaller font size for smaller screens */
+    }
+  
+    .navbar .navbar-toggler {
+      margin-left: auto; /* Align toggle button to the right */
+    }
+  
+    .nav-item.nav-link {
+      display: block; /* Stack nav items vertically */
+      text-align: center; /* Center align nav items */
+    }
+  
+    .nav-item.nav-link:last-child {
+      margin-left: 0; /* Remove margin from last nav item */
+    }
+  
+    .btn-success {
+      margin: 10px auto; /* Center the button */
+    }
+  
+    .card img {
+      width: 100%; /* Make images responsive */
+      height: auto;
+    }
+  
+    .card-body {
+      text-align: center; /* Center align card content */
+    }
+  
+    .col-md-4 {
+      width: 100%; /* Make each column take full width */
+      margin-bottom: 20px; /* Add space between cards */
+    }
+  
+    .offcanvas {
+      width: 100%; /* Make offcanvas full width */
+    }
+  
+    .offcanvas .total, .offcanvas .btn-primary {
+      text-align: center; /* Center align total and button */
+      width: 100%;
+    }
+  
+    .offcanvas-header, .offcanvas-body {
+      padding: 10px; /* Reduce padding */
+    }
+  
+    .offcanvas-title {
+      font-size: 1.5rem; /* Adjust title size */
+    }
+  
+    /* Footer adjustments */
+    .footer {
+      text-align: center;
+    }
+  
+    .footer div {
+      margin-bottom: 10px; /* Space out footer sections */
+    }
+  
+    .footer iframe {
+      width: 10px; /* Make map iframe responsive */
+    }
+  
+    .footer h2, .footer h6 {
+      font-size: 10px; /* Adjust footer text size */
+    }
+  
+    .footer i {
+      font-size: 10px; /* Smaller icons */
+      margin: 2px; /* Space out icons */
+    }
+
+  }
+  
+
+  @media (max-width: 770px) {
+
+
+    .navbar-nav a {
+      font-size: 16px; /* Smaller font size for smaller screens */
+    }
+  
+    .navbar .navbar-toggler {
+      margin-left: auto; /* Align toggle button to the right */
+    }
+  
+    .nav-item.nav-link {
+      display: block; /* Stack nav items vertically */
+      text-align: center; /* Center align nav items */
+    }
+  
+    .nav-item.nav-link:last-child {
+      margin-left: 0; /* Remove margin from last nav item */
+    }
+  
+    .btn-success {
+      margin: 10px auto; /* Center the button */
+    }
+  
+    .card img {
+      width: 100%; /* Make images responsive */
+      height: auto;
+    }
+  
+    .card-body {
+      text-align: center; /* Center align card content */
+    }
+  
+    .col-md-4 {
+      width: 100%; /* Make each column take full width */
+      margin-bottom: 20px; /* Add space between cards */
+    }
+  
+    .offcanvas {
+      width: 100%; /* Make offcanvas full width */
+    }
+  
+    .offcanvas .total, .offcanvas .btn-primary {
+      text-align: center; /* Center align total and button */
+      width: 100%;
+    }
+  
+    .offcanvas-header, .offcanvas-body {
+      padding: 10px; /* Reduce padding */
+    }
+  
+    .offcanvas-title {
+      font-size: 1.5rem; /* Adjust title size */
+    }
+  
+    /* Footer adjustments */
+    .footer {
+      text-align: center;
+    }
+  
+    .footer div {
+      margin-bottom: 10px; /* Space out footer sections */
+    }
+  
+    .footer iframe {
+      width: 10px; /* Make map iframe responsive */
+    }
+  
+    .footer h2, .footer h6 {
+      font-size: 10px; /* Adjust footer text size */
+    }
+  
+    .footer i {
+      font-size: 10px; /* Smaller icons */
+      margin: 2px; /* Space out icons */
+    }
+
+  }
